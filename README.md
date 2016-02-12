@@ -7,6 +7,6 @@
  
  
  just add .agres class to elements container to nicely spread them and here we go,
- optionaly add agres.js and call $.agres on elements container too to get elements verticaly aligned
+ optionaly add agres.js and call $.agres on elements container too to get elements verticaly centered
  
 demo can be found here > http://agres.dude.pm
