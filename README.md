@@ -1,7 +1,9 @@
  agres .
-  pure css Automatic, Generic & Responsive Elements in column Spread'r
+  pure css Automatic, Generic & Responsive Elements Spread'r
   
    alpha .one ~ © 2k13~16 noferi Mickaël ~ r043v/dph ~ under creative common BY-NC-SA
+  
+automaticaly distribute some elements in colums and lines in a nicely and responsive manner
   
   intensively use selector on sibling number ~ http://lea.verou.me/2011/01/styling-children-based-on-their-number-with-css3/
  
